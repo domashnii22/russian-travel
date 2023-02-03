@@ -1,0 +1,35 @@
+.cover__link {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    text-decoration: none;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cover__link::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    margin: 0;
+}
+
+.cover__link::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    margin: 0;
+}
+
+.cover__link:hover {
+    opacity: 0.8;
+    background: #2A2C2F;
+}

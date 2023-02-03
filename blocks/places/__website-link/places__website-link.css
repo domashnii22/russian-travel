@@ -1,0 +1,25 @@
+.places__website-link {
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+.places__website-link:hover {
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+    .places__website-link {
+        line-height: 12px;  
+    } 
+}
+
+@media (max-width: 320px) {
+    .places__website-link {
+        padding-left: 16px;
+    } 
+}  

@@ -1,0 +1,17 @@
+.footer__links {
+    display: grid;
+    list-style: none;
+    grid-template-columns: repeat(5,auto);
+    margin: 0;
+    padding: 0;
+    column-gap: 18px;
+}
+
+@media (max-width: 600px) {
+    .footer__links { 
+        grid-template-columns: auto;
+        grid-template-rows: repeat(5,auto);
+        row-gap: 32px;
+        padding-left: 16px;
+    }
+}

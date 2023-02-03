@@ -1,0 +1,26 @@
+.places__website {
+    grid-area: website;
+    margin: 0;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+@media (max-width: 320px) {
+    .places__website {
+        height: 46px;
+    }
+    } 
+
+
+@media (max-width: 320px) {
+    .places__website {
+        display: flex;
+        flex-direction: column;
+        gap: 22px;
+        max-width: 288px;
+        width: 100%;
+        height: 46px;
+    }
+    } 
