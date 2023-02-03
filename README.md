@@ -2,7 +2,7 @@
 
 ---
 
-1. Ссылка ссылка проекта на GitHub: [https://github.com/domashnii22/russian-travel.git]
+1. Ссылка ссылка проекта на GitHub: [https://domashnii22.github.io/russian-travel/]
 
 2. Данный проект является практическим закреплением навыков адаптивной верстки и работы с макетом в [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0).
 
