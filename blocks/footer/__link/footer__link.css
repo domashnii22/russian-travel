@@ -6,6 +6,12 @@
     line-height: 18px;
 }
 
+.footer__link:hover {
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: opacity 0.3s;
+}
+
 @media (max-width: 320px) {
     .footer__link { 
         padding-left: 0;

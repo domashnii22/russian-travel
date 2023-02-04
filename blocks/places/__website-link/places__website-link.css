@@ -10,6 +10,7 @@
 .places__website-link:hover {
     color: #FFFFFF;
     opacity: 0.8;
+    transition: opacity 0.3s;
 }
 
 @media (max-width: 768px) {

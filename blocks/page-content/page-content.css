@@ -4,12 +4,6 @@
     padding: 28px 0 0;
 }
 
-@media (max-width: 768px) {
-    .page-content { 
-        padding: 28px 0 0;
-    }
-}
-
 @media (max-width: 320px) {
     .page-content { 
         padding: 16px 0 0;

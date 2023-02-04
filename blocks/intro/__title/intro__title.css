@@ -3,7 +3,6 @@
     font-weight: 900;
     font-size: 54px;
     line-height: 58px;
-    white-space: nowrap;
     max-width: 690px;
 }
 
@@ -17,7 +16,6 @@
     .intro__title {
         font-size: 32px;
         line-height: 35px;
-        white-space: normal;
         max-width: 288px;
     } 
 }

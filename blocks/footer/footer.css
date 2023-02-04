@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    margin: 92px auto 24px;
+    margin: 92px auto 0;
+    padding-bottom: 24px;
 }
 
 @media (max-width: 1024px) {
@@ -14,7 +15,7 @@
 @media (max-width: 768px) {
     .footer { 
         max-width: 720px;
-        margin: 88px auto 24px;
+        margin: 88px auto 0;
         align-items: center;
     }
 }
@@ -24,6 +25,6 @@
         flex-direction: column;
         min-height: 310px;
         align-items: flex-start;
-        margin-top: 66px;
+        margin: 64px auto 0;
     }
 }
