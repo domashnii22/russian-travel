@@ -6,6 +6,12 @@
     color: #FFFFFF;
 }
 
+.header__lang-link:hover {
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: opacity 0.3s;
+}
+
 @media (max-width: 320px) {
     .header__lang-link {
         font-size: 18px;

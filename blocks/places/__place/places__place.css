@@ -23,14 +23,14 @@
 
 @media (max-width: 768px) {
     .places__place {
-        grid-template-columns: auto 1fr;
+        grid-template-columns: 340px 1fr;
         column-gap: 28px;
         margin-top: 70px;
         max-width: 720px;
     } 
 }
 
-@media (max-width: 320px) {
+@media (max-width: 520px) {
     .places__place {
         grid-template-areas:
         "title" 

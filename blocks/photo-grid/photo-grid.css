@@ -4,7 +4,6 @@
 
 @media (max-width: 1024px) {
     .photo-grid {
-        margin: 92px auto 0;
         max-width: 928px;
     }
 }
