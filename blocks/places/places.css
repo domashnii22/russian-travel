@@ -16,7 +16,7 @@
     } 
 }
 
-@media (max-width: 320px) {
+@media (max-width: 520px) {
     .places {
         margin: 64px auto 0;
         max-width: 320px;
