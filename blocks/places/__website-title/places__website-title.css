@@ -8,8 +8,8 @@
     letter-spacing: 2px;
 }
 
-@media (max-width: 320px) {
+/* @media (max-width: 320px) {
     .places__website-title {
         padding-left: 16px;
     } 
-}  
+}   */
